@@ -1,0 +1,67 @@
+{
+  "expo": {
+    "name": "Zen Mahjong Prototype",
+    "slug": "zen-mahjong-prototype",
+    "version": "0.3.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "zenmahjongprototype",
+    "userInterfaceStyle": "light",
+    "runtimeVersion": "0.3.0",
+    "ios": {
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.zenmahjong.prototype",
+      "buildNumber": "3",
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#173C2F",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "backgroundImage": "./assets/images/android-icon-background.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.zenmahjong.prototype",
+      "versionCode": 3
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "./plugins/with-path-safe-ios-bundle",
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#173C2F",
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 76
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "enableSceneSupport": true
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "62d00bec-9875-45ec-a1eb-7e8ea8da52f3"
+      }
+    },
+    "owner": "kkos14",
+    "updates": {
+      "url": "https://u.expo.dev/62d00bec-9875-45ec-a1eb-7e8ea8da52f3"
+    }
+  }
+}

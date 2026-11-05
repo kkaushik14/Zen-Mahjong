@@ -1,0 +1,15 @@
+packages:
+  - apps/*
+  - packages/*
+
+allowBuilds:
+  '@parcel/watcher': true
+  unrs-resolver: true
+
+overrides:
+  expo-constants: 57.0.21
+
+patchedDependencies:
+  expo-constants@57.0.21: patches/expo-constants@57.0.21.patch
+  expo-modules-jsi@57.1.1: patches/expo-modules-jsi@57.1.1.patch
+  expo-updates@57.0.25: patches/expo-updates@57.0.25.patch

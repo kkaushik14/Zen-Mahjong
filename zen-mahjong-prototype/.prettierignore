@@ -1,0 +1,7 @@
+node_modules
+.expo
+dist
+apps/mobile/dist-web
+coverage
+pnpm-lock.yaml
+apps/mobile/assets

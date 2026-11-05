@@ -1,0 +1,48 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Prototype: Start Expo",
+      "type": "shell",
+      "command": "pnpm start",
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Prototype: Verify",
+      "type": "shell",
+      "command": "pnpm verify",
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "problemMatcher": ["$tsc", "$eslint-stylish"]
+    },
+    {
+      "label": "Prototype: Test Watch",
+      "type": "shell",
+      "command": "pnpm test:watch",
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Prototype: Start Development Client",
+      "type": "shell",
+      "command": "pnpm dev:client",
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Prototype: Run iOS Device",
+      "type": "shell",
+      "command": "pnpm device:ios",
+      "problemMatcher": []
+    },
+    {
+      "label": "Prototype: Run Android Device",
+      "type": "shell",
+      "command": "pnpm device:android",
+      "problemMatcher": []
+    }
+  ]
+}

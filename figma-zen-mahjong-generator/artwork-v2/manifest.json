@@ -1,0 +1,9 @@
+{
+  "name": "Zen Mahjong Artwork V2 Theme Study",
+  "id": "zen-mahjong-artwork-v2-local",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": { "allowedDomains": ["none"] }
+}

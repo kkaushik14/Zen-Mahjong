@@ -1,0 +1,55 @@
+{
+  "contentVersion": "0.3.0",
+  "generatedFrom": "docs/v0.3.0/design-baseline/2026-10-07/export/design-review.json",
+  "items": [
+    {
+      "crop": {
+        "height": 185,
+        "width": 330,
+        "x": 207,
+        "y": 10
+      },
+      "figmaNodeId": "55:16611",
+      "key": "back",
+      "outputPath": "packages/mahjong-ui/assets/gameplay/v3/back.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "crop": {
+        "height": 185,
+        "width": 327,
+        "x": 585,
+        "y": 10
+      },
+      "figmaNodeId": "55:16613",
+      "key": "restart",
+      "outputPath": "packages/mahjong-ui/assets/gameplay/v3/restart.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 2
+      },
+      "figmaNodeId": "55:16451",
+      "key": "identityEmblem",
+      "outputPath": "packages/mahjong-ui/assets/gameplay/v3/identity-emblem.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      },
+      "sourceHash": "83db652e9e71a59d66d63017b0a268448149db65"
+    }
+  ],
+  "schemaVersion": 1
+}

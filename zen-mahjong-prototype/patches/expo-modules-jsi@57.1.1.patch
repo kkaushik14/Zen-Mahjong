@@ -1,0 +1,12 @@
+diff --git a/apple/scripts/build-xcframework.sh b/apple/scripts/build-xcframework.sh
+index 4c506533866d411b18799e5441f02c2b3e9a0c44..ff5a7fc1864320d4b4abdc51df96edfd92a70d59 100755
+--- a/apple/scripts/build-xcframework.sh
++++ b/apple/scripts/build-xcframework.sh
+@@ -234,6 +234,7 @@ build_slice() {
+     OBJROOT="${DERIVED_DATA_PATH}/Build/Intermediates.noindex" \
+     BUILD_LIBRARY_FOR_DISTRIBUTION=YES \
+     SKIP_INSTALL=NO \
++    CODE_SIGNING_ALLOWED=NO \
+     DEBUG_INFORMATION_FORMAT=dwarf-with-dsym \
+     COMPILER_INDEX_STORE_ENABLE=NO \
+     SWIFT_COMPILATION_MODE=wholemodule \

@@ -1,0 +1,19 @@
+{
+  "name": "@zen-mahjong/persistence",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "peerDependencies": {
+    "@zen-mahjong/shared-types": "workspace:*",
+    "react-native-mmkv": "*"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@zen-mahjong/shared-types": "workspace:*"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Zen Mahjong Visual Designer",
+  "id": "1927164835201947601",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}

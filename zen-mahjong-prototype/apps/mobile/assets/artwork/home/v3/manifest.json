@@ -1,0 +1,215 @@
+{
+  "contentVersion": "0.3.0",
+  "generatedFrom": "docs/v0.3.0/design-baseline/2026-10-07/export/design-review.json",
+  "items": [
+    {
+      "crop": {
+        "height": 215,
+        "width": 235,
+        "x": 60,
+        "y": 138
+      },
+      "figmaNodeId": "70:18522",
+      "key": "avatar",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/avatar.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "20db649f85d9705e69333badd9be5ff6b671ff29"
+    },
+    {
+      "crop": {
+        "height": 129,
+        "width": 355,
+        "x": 1060,
+        "y": 151
+      },
+      "figmaNodeId": "70:18526",
+      "key": "currency",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/currency.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "20db649f85d9705e69333badd9be5ff6b671ff29"
+    },
+    {
+      "crop": {
+        "height": 300,
+        "width": 730,
+        "x": 324,
+        "y": 20
+      },
+      "figmaNodeId": "75:19002",
+      "key": "logoUpper",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/logo-upper.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "20db649f85d9705e69333badd9be5ff6b671ff29"
+    },
+    {
+      "crop": {
+        "height": 273,
+        "width": 764,
+        "x": 324,
+        "y": 320
+      },
+      "figmaNodeId": "75:19003",
+      "key": "logoLower",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/logo-lower.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "20db649f85d9705e69333badd9be5ff6b671ff29"
+    },
+    {
+      "crop": {
+        "height": 364,
+        "width": 140,
+        "x": 18,
+        "y": 127
+      },
+      "figmaNodeId": "70:18553",
+      "key": "dailyStart",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/daily-start.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "e6e2053f3dd45b963d8d466fb9c9775d1e177c90"
+    },
+    {
+      "crop": {
+        "height": 364,
+        "width": 563,
+        "x": 158,
+        "y": 127
+      },
+      "figmaNodeId": "70:18554",
+      "key": "dailyMiddle",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/daily-middle.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "e6e2053f3dd45b963d8d466fb9c9775d1e177c90"
+    },
+    {
+      "crop": {
+        "height": 364,
+        "width": 80,
+        "x": 721,
+        "y": 127
+      },
+      "figmaNodeId": "70:18555",
+      "key": "dailyEnd",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/daily-end.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "e6e2053f3dd45b963d8d466fb9c9775d1e177c90"
+    },
+    {
+      "crop": {
+        "height": 376,
+        "width": 140,
+        "x": 811,
+        "y": 137
+      },
+      "figmaNodeId": "70:18564",
+      "key": "streakStart",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/streak-start.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "e6e2053f3dd45b963d8d466fb9c9775d1e177c90"
+    },
+    {
+      "crop": {
+        "height": 376,
+        "width": 396,
+        "x": 951,
+        "y": 137
+      },
+      "figmaNodeId": "70:18565",
+      "key": "streakMiddle",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/streak-middle.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "e6e2053f3dd45b963d8d466fb9c9775d1e177c90"
+    },
+    {
+      "crop": {
+        "height": 376,
+        "width": 80,
+        "x": 1347,
+        "y": 137
+      },
+      "figmaNodeId": "70:18566",
+      "key": "streakEnd",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/streak-end.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "e6e2053f3dd45b963d8d466fb9c9775d1e177c90"
+    },
+    {
+      "crop": {
+        "height": 205,
+        "width": 210,
+        "x": 125,
+        "y": 610
+      },
+      "figmaNodeId": "75:19014",
+      "key": "journeyIcon",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/journey-icon.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "e6e2053f3dd45b963d8d466fb9c9775d1e177c90"
+    },
+    {
+      "crop": {
+        "height": 147,
+        "width": 137,
+        "x": 854,
+        "y": 658
+      },
+      "figmaNodeId": "75:19025",
+      "key": "achievementIcon",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/achievement-icon.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "e6e2053f3dd45b963d8d466fb9c9775d1e177c90"
+    },
+    {
+      "crop": {
+        "height": 198,
+        "width": 230,
+        "x": 1170,
+        "y": 321
+      },
+      "figmaNodeId": "70:18524",
+      "key": "settings",
+      "outputPath": "apps/mobile/assets/artwork/home/v3/settings.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "20db649f85d9705e69333badd9be5ff6b671ff29"
+    }
+  ],
+  "schemaVersion": 1
+}

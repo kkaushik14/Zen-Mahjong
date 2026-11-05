@@ -1,0 +1,525 @@
+{
+  "sectionId": "45:16399",
+  "screenCount": 20,
+  "productionFinal": false,
+  "screens": [
+    {
+      "id": "55:16809",
+      "name": "Gameplay / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "55:16956",
+      "name": "Gameplay / Restart",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "55:17102",
+      "name": "Home / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "55:17129",
+      "name": "Gameplay / 360 x 800",
+      "width": 360,
+      "height": 800
+    },
+    {
+      "id": "57:18914",
+      "name": "Gameplay / 412 x 915",
+      "width": 412,
+      "height": 915
+    },
+    {
+      "id": "57:19031",
+      "name": "Gameplay / 430 x 932",
+      "width": 430,
+      "height": 932
+    },
+    {
+      "id": "57:17832",
+      "name": "Loading / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:17849",
+      "name": "Profile / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:17878",
+      "name": "Settings / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:17963",
+      "name": "Board Complete / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:17992",
+      "name": "Achievements / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:18029",
+      "name": "Streaks / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:18108",
+      "name": "Pause / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:18225",
+      "name": "More / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:18340",
+      "name": "Edit Profile / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:18454",
+      "name": "Achievement Detail / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:18564",
+      "name": "Appearance / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:18675",
+      "name": "No Moves / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:18786",
+      "name": "Loading Offline / 390 x 844",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "57:18803",
+      "name": "Full Tray / 390 x 844",
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "polish": {
+    "qa": [
+      {
+        "id": "55:16809",
+        "size": [
+          390,
+          844
+        ],
+        "boardToTrayGap": 47,
+        "trayToActionsGap": 2,
+        "bottomClearance": 32,
+        "fourHoldingSlots": true,
+        "separateIdentity": true
+      },
+      {
+        "id": "55:17129",
+        "size": [
+          360,
+          800
+        ],
+        "boardToTrayGap": 16,
+        "trayToActionsGap": 10,
+        "bottomClearance": 32,
+        "fourHoldingSlots": true,
+        "separateIdentity": true
+      },
+      {
+        "id": "57:18914",
+        "size": [
+          412,
+          915
+        ],
+        "boardToTrayGap": 93,
+        "trayToActionsGap": 2,
+        "bottomClearance": 32,
+        "fourHoldingSlots": true,
+        "separateIdentity": true
+      },
+      {
+        "id": "57:19031",
+        "size": [
+          430,
+          932
+        ],
+        "boardToTrayGap": 110,
+        "trayToActionsGap": 2,
+        "bottomClearance": 32,
+        "fourHoldingSlots": true,
+        "separateIdentity": true
+      }
+    ],
+    "createdNodeIds": [],
+    "mutatedNodeIds": [
+      "55:16826",
+      "55:16933",
+      "55:16937",
+      "55:16973",
+      "55:17064",
+      "55:17068",
+      "55:17146",
+      "55:17237",
+      "55:17241",
+      "57:18920",
+      "57:18921",
+      "57:18922",
+      "57:19037",
+      "57:19038",
+      "57:19039"
+    ],
+    "screenCount": 20,
+    "productionFinal": false
+  },
+  "limitations": [
+    "Theme study, not production final",
+    "Physical-device accessibility and motion testing still required"
+  ],
+  "components": [
+    {
+      "id": "55:16434",
+      "name": "V2/Background/Autumn",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16436",
+      "name": "V2/Background/Cool Garden",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16438",
+      "name": "V2/Background/Loading",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16440",
+      "name": "V2/Tile/Marble Surface",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16542",
+      "name": "State=Available",
+      "parent": "V2/Tile"
+    },
+    {
+      "id": "55:16547",
+      "name": "State=Blocked",
+      "parent": "V2/Tile"
+    },
+    {
+      "id": "55:16552",
+      "name": "State=Selected",
+      "parent": "V2/Tile"
+    },
+    {
+      "id": "55:16558",
+      "name": "State=Hinted",
+      "parent": "V2/Tile"
+    },
+    {
+      "id": "55:16564",
+      "name": "State=Pressed",
+      "parent": "V2/Tile"
+    },
+    {
+      "id": "55:16569",
+      "name": "State=Matching",
+      "parent": "V2/Tile"
+    },
+    {
+      "id": "55:16575",
+      "name": "State=Clearing",
+      "parent": "V2/Tile"
+    },
+    {
+      "id": "55:16580",
+      "name": "State=Disabled",
+      "parent": "V2/Tile"
+    },
+    {
+      "id": "55:16586",
+      "name": "V2/Button/Primary",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16589",
+      "name": "V2/Button/Secondary",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16592",
+      "name": "V2/Action/Undo",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16597",
+      "name": "V2/Action/Hint",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16602",
+      "name": "V2/Action/Shuffle",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16607",
+      "name": "V2/Action/More",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16610",
+      "name": "V2/Navigation/Back",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16612",
+      "name": "V2/Navigation/Restart",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16614",
+      "name": "V2/Tray",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16618",
+      "name": "V2/Progress",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16627",
+      "name": "V2/Board/Layered",
+      "parent": "01 Components"
+    },
+    {
+      "id": "55:16718",
+      "name": "V2/Popup/Restart",
+      "parent": "01 Components"
+    },
+    {
+      "id": "57:17711",
+      "name": "State=On",
+      "parent": "V2/Toggle"
+    },
+    {
+      "id": "57:17714",
+      "name": "State=Off",
+      "parent": "V2/Toggle"
+    },
+    {
+      "id": "57:17717",
+      "name": "State=Disabled",
+      "parent": "V2/Toggle"
+    },
+    {
+      "id": "57:17723",
+      "name": "V2/Settings/Row",
+      "parent": "V2 / App Components"
+    },
+    {
+      "id": "57:17728",
+      "name": "V2/Stats/Metric",
+      "parent": "V2 / App Components"
+    },
+    {
+      "id": "57:17731",
+      "name": "State=Played",
+      "parent": "V2/Calendar/Day"
+    },
+    {
+      "id": "57:17733",
+      "name": "State=Missed",
+      "parent": "V2/Calendar/Day"
+    },
+    {
+      "id": "57:17735",
+      "name": "State=Today",
+      "parent": "V2/Calendar/Day"
+    },
+    {
+      "id": "57:17738",
+      "name": "Type=Undo, State=Default",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17743",
+      "name": "Type=Undo, State=Pressed",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17748",
+      "name": "Type=Undo, State=Disabled",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17753",
+      "name": "Type=Undo, State=Zero",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17758",
+      "name": "Type=Hint, State=Default",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17763",
+      "name": "Type=Hint, State=Pressed",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17768",
+      "name": "Type=Hint, State=Disabled",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17773",
+      "name": "Type=Hint, State=Zero",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17778",
+      "name": "Type=Shuffle, State=Default",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17783",
+      "name": "Type=Shuffle, State=Pressed",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17788",
+      "name": "Type=Shuffle, State=Disabled",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17793",
+      "name": "Type=Shuffle, State=Zero",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17798",
+      "name": "Type=More, State=Default",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17801",
+      "name": "Type=More, State=Pressed",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17804",
+      "name": "Type=More, State=Disabled",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17807",
+      "name": "Type=More, State=Zero",
+      "parent": "V2/GameplayAction"
+    },
+    {
+      "id": "57:17811",
+      "name": "State=Empty",
+      "parent": "V2/Tray/Slot"
+    },
+    {
+      "id": "57:17812",
+      "name": "State=Occupied",
+      "parent": "V2/Tray/Slot"
+    },
+    {
+      "id": "57:17815",
+      "name": "State=Newly Added",
+      "parent": "V2/Tray/Slot"
+    },
+    {
+      "id": "57:17818",
+      "name": "State=Matching",
+      "parent": "V2/Tray/Slot"
+    },
+    {
+      "id": "57:17821",
+      "name": "State=Clearing",
+      "parent": "V2/Tray/Slot"
+    },
+    {
+      "id": "57:17824",
+      "name": "State=Almost Full",
+      "parent": "V2/Tray/Slot"
+    },
+    {
+      "id": "57:17827",
+      "name": "State=Full",
+      "parent": "V2/Tray/Slot"
+    },
+    {
+      "id": "57:17830",
+      "name": "State=Disabled",
+      "parent": "V2/Tray/Slot"
+    },
+    {
+      "id": "65:18216",
+      "name": "V2/Popup/Organic Frame",
+      "parent": "01 Components"
+    },
+    {
+      "id": "65:18236",
+      "name": "V2/Tray/Identity",
+      "parent": "01 Components"
+    },
+    {
+      "id": "65:18260",
+      "name": "Type=Primary, State=Default",
+      "parent": "V2/Button States"
+    },
+    {
+      "id": "65:18263",
+      "name": "Type=Primary, State=Pressed",
+      "parent": "V2/Button States"
+    },
+    {
+      "id": "65:18266",
+      "name": "Type=Primary, State=Disabled",
+      "parent": "V2/Button States"
+    },
+    {
+      "id": "65:18269",
+      "name": "Type=Secondary, State=Default",
+      "parent": "V2/Button States"
+    },
+    {
+      "id": "65:18272",
+      "name": "Type=Secondary, State=Pressed",
+      "parent": "V2/Button States"
+    },
+    {
+      "id": "65:18275",
+      "name": "Type=Secondary, State=Disabled",
+      "parent": "V2/Button States"
+    }
+  ]
+}

@@ -1,0 +1,1726 @@
+{
+  "file": "Zen Mahjong - Moonlit Garden V3",
+  "productionFinal": false,
+  "organization": {
+    "status": "Organized without deleting artwork or screens",
+    "pages": [
+      {
+        "id": "0:1",
+        "name": "01 Foundations"
+      },
+      {
+        "id": "2:2",
+        "name": "02 Components"
+      },
+      {
+        "id": "2:3",
+        "name": "03 Screens"
+      }
+    ],
+    "moved": [
+      {
+        "id": "45:16400",
+        "name": "02 Source Artwork and Materials",
+        "page": "01 Foundations"
+      },
+      {
+        "id": "55:16426",
+        "name": "01 Gameplay and Shared Components",
+        "page": "02 Components"
+      },
+      {
+        "id": "55:16428",
+        "name": "02 Component States and Examples",
+        "page": "02 Components"
+      },
+      {
+        "id": "65:18377",
+        "name": "V2/Popup/Pause",
+        "page": "02 Components"
+      },
+      {
+        "id": "65:18403",
+        "name": "V2/Popup/More",
+        "page": "02 Components"
+      },
+      {
+        "id": "65:18429",
+        "name": "V2/Popup/Edit Profile",
+        "page": "02 Components"
+      },
+      {
+        "id": "65:18454",
+        "name": "V2/Popup/Achievement Detail",
+        "page": "02 Components"
+      },
+      {
+        "id": "65:18476",
+        "name": "V2/Popup/Appearance",
+        "page": "02 Components"
+      },
+      {
+        "id": "65:18499",
+        "name": "V2/Popup/No Moves",
+        "page": "02 Components"
+      },
+      {
+        "id": "65:18522",
+        "name": "V2/Popup/Full Tray",
+        "page": "02 Components"
+      },
+      {
+        "id": "57:17708",
+        "name": "01 Gameplay Screens",
+        "page": "03 Screens"
+      },
+      {
+        "id": "57:17709",
+        "name": "02 App Screens and Popups",
+        "page": "03 Screens"
+      },
+      {
+        "id": "55:17260",
+        "name": "Review / Existing Screen Overview",
+        "page": "03 Screens"
+      },
+      {
+        "id": "45:16399",
+        "name": "01 Design Direction and Review Notes",
+        "page": "01 Foundations"
+      }
+    ]
+  },
+  "build": {
+    "owner": "zen-mahjong-moonlit-v3",
+    "sectionId": "70:18622",
+    "libraryId": "3:2",
+    "status": "All Home layouts updated; rendered review pending",
+    "productionFinal": false,
+    "screens": [
+      {
+        "id": "70:18623",
+        "name": "Home / 390 x 844",
+        "width": 390,
+        "height": 844
+      },
+      {
+        "id": "71:18685",
+        "name": "Home / 360 x 800",
+        "width": 360,
+        "height": 800
+      },
+      {
+        "id": "71:18747",
+        "name": "Home / 412 x 915",
+        "width": 412,
+        "height": 915
+      },
+      {
+        "id": "71:18809",
+        "name": "Home / 430 x 932",
+        "width": 430,
+        "height": 932
+      },
+      {
+        "id": "71:18871",
+        "name": "Home / 390 x 844 / First Play",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "components": [
+      {
+        "id": "70:18517",
+        "name": "V3/Background/Moonlit Garden"
+      },
+      {
+        "id": "70:18519",
+        "name": "V3/Brand/Zen Mahjong"
+      },
+      {
+        "id": "70:18521",
+        "name": "V3/Navigation/Profile"
+      },
+      {
+        "id": "70:18523",
+        "name": "V3/Navigation/Settings"
+      },
+      {
+        "id": "70:18525",
+        "name": "V3/HUD/Currency"
+      },
+      {
+        "id": "70:18529",
+        "name": "State=Default"
+      },
+      {
+        "id": "70:18536",
+        "name": "State=Pressed"
+      },
+      {
+        "id": "70:18544",
+        "name": "State=Disabled"
+      },
+      {
+        "id": "70:18552",
+        "name": "V3/Home/Daily Challenge"
+      },
+      {
+        "id": "70:18563",
+        "name": "V3/Home/Streak"
+      },
+      {
+        "id": "70:18574",
+        "name": "V3/Home/Journey"
+      },
+      {
+        "id": "70:18581",
+        "name": "V3/Home/Achievements"
+      },
+      {
+        "id": "70:18588",
+        "name": "State=In Progress"
+      },
+      {
+        "id": "70:18599",
+        "name": "State=Completed"
+      },
+      {
+        "id": "70:18610",
+        "name": "State=Claimable"
+      }
+    ],
+    "changedNodeIds": [
+      "70:18556",
+      "70:18557",
+      "70:18567",
+      "70:18568",
+      "70:18578",
+      "70:18579",
+      "70:18585",
+      "70:18586",
+      "71:18653",
+      "71:18664",
+      "71:18671",
+      "71:18678",
+      "70:18623",
+      "71:18685",
+      "71:18685",
+      "71:18747",
+      "71:18747",
+      "71:18809",
+      "71:18809",
+      "71:18871",
+      "71:18871",
+      "71:18978",
+      "71:18979",
+      "71:18981",
+      "71:18983",
+      "71:18985",
+      "71:18987",
+      "71:18989",
+      "71:18991",
+      "71:18993",
+      "71:18995",
+      "71:18997",
+      "71:18998",
+      "71:18999",
+      "71:19000",
+      "71:19001"
+    ],
+    "pending": [
+      "Rendered visual review",
+      "Daily Challenge and Journey detail destinations",
+      "Physical-device validation"
+    ],
+    "layoutRepair": [
+      {
+        "id": "70:18623",
+        "name": "Home / 390 x 844",
+        "status": "updated",
+        "sideBySide": true,
+        "gapBeforeContinue": 32,
+        "bottomReserve": 166
+      },
+      {
+        "id": "71:18685",
+        "name": "Home / 360 x 800",
+        "status": "updated",
+        "sideBySide": true,
+        "gapBeforeContinue": 32,
+        "bottomReserve": 122
+      },
+      {
+        "id": "71:18747",
+        "name": "Home / 412 x 915",
+        "status": "updated",
+        "sideBySide": true,
+        "gapBeforeContinue": 32,
+        "bottomReserve": 237
+      },
+      {
+        "id": "71:18809",
+        "name": "Home / 430 x 932",
+        "status": "updated",
+        "sideBySide": true,
+        "gapBeforeContinue": 32,
+        "bottomReserve": 254
+      },
+      {
+        "id": "71:18871",
+        "name": "Home / 390 x 844 / First Play",
+        "status": "updated",
+        "sideBySide": true,
+        "gapBeforeContinue": 32,
+        "bottomReserve": 166
+      }
+    ]
+  },
+  "audit": [
+    {
+      "id": "70:18623",
+      "name": "Home / 390 x 844",
+      "width": 390,
+      "height": 844,
+      "bottomReserve": 166,
+      "listBottom": 560,
+      "actionTop": 592,
+      "overlap": false,
+      "labels": [
+        {
+          "id": "70:18630",
+          "name": "Level",
+          "text": "Lv. 12",
+          "width": 56,
+          "height": 20,
+          "fontSize": 15,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I70:18633;70:18527",
+          "name": "Balance",
+          "text": "1,250",
+          "width": 49,
+          "height": 19,
+          "fontSize": 14,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I70:18642;70:18556",
+          "name": "Title",
+          "text": "Daily Challenge",
+          "width": 264,
+          "height": 32,
+          "fontSize": 24,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I70:18642;70:18557",
+          "name": "Status",
+          "text": "2 of 4 completed",
+          "width": 264,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I70:18642;70:18558",
+          "name": "Arrow",
+          "text": "›",
+          "width": 22,
+          "height": 33,
+          "fontSize": 25,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18653;70:18567",
+          "name": "Title",
+          "text": "Streak",
+          "width": 264,
+          "height": 32,
+          "fontSize": 24,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18653;70:18568",
+          "name": "Status",
+          "text": "3 consecutive days",
+          "width": 264,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18653;70:18569",
+          "name": "Arrow",
+          "text": "›",
+          "width": 22,
+          "height": 33,
+          "fontSize": 25,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I75:19037;75:19008",
+          "name": "Title",
+          "text": "Journey",
+          "width": 109,
+          "height": 21,
+          "fontSize": 16,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I75:19037;75:19009",
+          "name": "Status",
+          "text": "Stage 3",
+          "width": 109,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I75:19044;75:19019",
+          "name": "Title",
+          "text": "Achievements",
+          "width": 109,
+          "height": 21,
+          "fontSize": 16,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I75:19044;75:19020",
+          "name": "Status",
+          "text": "5 / 24",
+          "width": 109,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18678;70:18534",
+          "name": "Play icon",
+          "text": "▶",
+          "width": 21,
+          "height": 29,
+          "fontSize": 22,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18678;70:18535",
+          "name": "Label",
+          "text": "Continue",
+          "width": 108,
+          "height": 38,
+          "fontSize": 29,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        }
+      ],
+      "targets": [
+        {
+          "id": "70:18628",
+          "name": "Profile",
+          "width": 48,
+          "height": 48,
+          "reactions": 1
+        },
+        {
+          "id": "70:18633",
+          "name": "Currency",
+          "width": 136,
+          "height": 48,
+          "reactions": 0
+        },
+        {
+          "id": "70:18637",
+          "name": "Settings",
+          "width": 48,
+          "height": 48,
+          "reactions": 1
+        },
+        {
+          "id": "70:18642",
+          "name": "Daily Challenge",
+          "width": 358,
+          "height": 90,
+          "reactions": 0
+        },
+        {
+          "id": "71:18653",
+          "name": "Streak",
+          "width": 358,
+          "height": 90,
+          "reactions": 1
+        },
+        {
+          "id": "75:19037",
+          "name": "Journey",
+          "width": 173,
+          "height": 78,
+          "reactions": 0
+        },
+        {
+          "id": "75:19044",
+          "name": "Achievements",
+          "width": 173,
+          "height": 78,
+          "reactions": 1
+        },
+        {
+          "id": "71:18678",
+          "name": "Continue",
+          "width": 342,
+          "height": 86,
+          "reactions": 1
+        }
+      ]
+    },
+    {
+      "id": "71:18685",
+      "name": "Home / 360 x 800",
+      "width": 360,
+      "height": 800,
+      "bottomReserve": 122,
+      "listBottom": 560,
+      "actionTop": 592,
+      "overlap": false,
+      "labels": [
+        {
+          "id": "71:18690",
+          "name": "Level",
+          "text": "Lv. 12",
+          "width": 56,
+          "height": 20,
+          "fontSize": 15,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18693;70:18527",
+          "name": "Balance",
+          "text": "1,250",
+          "width": 49,
+          "height": 19,
+          "fontSize": 14,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18697;70:18556",
+          "name": "Title",
+          "text": "Daily Challenge",
+          "width": 234,
+          "height": 32,
+          "fontSize": 24,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18697;70:18557",
+          "name": "Status",
+          "text": "2 of 4 completed",
+          "width": 234,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18697;70:18558",
+          "name": "Arrow",
+          "text": "›",
+          "width": 22,
+          "height": 33,
+          "fontSize": 25,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18698;70:18567",
+          "name": "Title",
+          "text": "Streak",
+          "width": 234,
+          "height": 32,
+          "fontSize": 24,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18698;70:18568",
+          "name": "Status",
+          "text": "3 consecutive days",
+          "width": 234,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18698;70:18569",
+          "name": "Arrow",
+          "text": "›",
+          "width": 22,
+          "height": 33,
+          "fontSize": 25,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18699;75:19008",
+          "name": "Title",
+          "text": "Journey",
+          "width": 94,
+          "height": 21,
+          "fontSize": 16,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18699;75:19009",
+          "name": "Status",
+          "text": "Stage 3",
+          "width": 94,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18700;75:19019",
+          "name": "Title",
+          "text": "Achievements",
+          "width": 94,
+          "height": 21,
+          "fontSize": 16,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18700;75:19020",
+          "name": "Status",
+          "text": "5 / 24",
+          "width": 94,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18701;70:18534",
+          "name": "Play icon",
+          "text": "▶",
+          "width": 21,
+          "height": 29,
+          "fontSize": 22,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18701;70:18535",
+          "name": "Label",
+          "text": "Continue",
+          "width": 108,
+          "height": 38,
+          "fontSize": 29,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        }
+      ],
+      "targets": [
+        {
+          "id": "71:18689",
+          "name": "Profile",
+          "width": 48,
+          "height": 48,
+          "reactions": 1
+        },
+        {
+          "id": "71:18693",
+          "name": "Currency",
+          "width": 136,
+          "height": 48,
+          "reactions": 0
+        },
+        {
+          "id": "71:18694",
+          "name": "Settings",
+          "width": 48,
+          "height": 48,
+          "reactions": 1
+        },
+        {
+          "id": "71:18697",
+          "name": "Daily Challenge",
+          "width": 328,
+          "height": 90,
+          "reactions": 0
+        },
+        {
+          "id": "71:18698",
+          "name": "Streak",
+          "width": 328,
+          "height": 90,
+          "reactions": 1
+        },
+        {
+          "id": "71:18699",
+          "name": "Journey",
+          "width": 158,
+          "height": 78,
+          "reactions": 0
+        },
+        {
+          "id": "71:18700",
+          "name": "Achievements",
+          "width": 158,
+          "height": 78,
+          "reactions": 1
+        },
+        {
+          "id": "71:18701",
+          "name": "Continue",
+          "width": 312,
+          "height": 86,
+          "reactions": 1
+        }
+      ]
+    },
+    {
+      "id": "71:18747",
+      "name": "Home / 412 x 915",
+      "width": 412,
+      "height": 915,
+      "bottomReserve": 237,
+      "listBottom": 560,
+      "actionTop": 592,
+      "overlap": false,
+      "labels": [
+        {
+          "id": "71:18752",
+          "name": "Level",
+          "text": "Lv. 12",
+          "width": 56,
+          "height": 20,
+          "fontSize": 15,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18755;70:18527",
+          "name": "Balance",
+          "text": "1,250",
+          "width": 49,
+          "height": 19,
+          "fontSize": 14,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18759;70:18556",
+          "name": "Title",
+          "text": "Daily Challenge",
+          "width": 286,
+          "height": 32,
+          "fontSize": 24,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18759;70:18557",
+          "name": "Status",
+          "text": "2 of 4 completed",
+          "width": 286,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18759;70:18558",
+          "name": "Arrow",
+          "text": "›",
+          "width": 22,
+          "height": 33,
+          "fontSize": 25,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18760;70:18567",
+          "name": "Title",
+          "text": "Streak",
+          "width": 286,
+          "height": 32,
+          "fontSize": 24,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18760;70:18568",
+          "name": "Status",
+          "text": "3 consecutive days",
+          "width": 286,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18760;70:18569",
+          "name": "Arrow",
+          "text": "›",
+          "width": 22,
+          "height": 33,
+          "fontSize": 25,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18761;75:19008",
+          "name": "Title",
+          "text": "Journey",
+          "width": 120,
+          "height": 21,
+          "fontSize": 16,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18761;75:19009",
+          "name": "Status",
+          "text": "Stage 3",
+          "width": 120,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18762;75:19019",
+          "name": "Title",
+          "text": "Achievements",
+          "width": 120,
+          "height": 21,
+          "fontSize": 16,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18762;75:19020",
+          "name": "Status",
+          "text": "5 / 24",
+          "width": 120,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18763;70:18534",
+          "name": "Play icon",
+          "text": "▶",
+          "width": 21,
+          "height": 29,
+          "fontSize": 22,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18763;70:18535",
+          "name": "Label",
+          "text": "Continue",
+          "width": 108,
+          "height": 38,
+          "fontSize": 29,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        }
+      ],
+      "targets": [
+        {
+          "id": "71:18751",
+          "name": "Profile",
+          "width": 48,
+          "height": 48,
+          "reactions": 1
+        },
+        {
+          "id": "71:18755",
+          "name": "Currency",
+          "width": 136,
+          "height": 48,
+          "reactions": 0
+        },
+        {
+          "id": "71:18756",
+          "name": "Settings",
+          "width": 48,
+          "height": 48,
+          "reactions": 1
+        },
+        {
+          "id": "71:18759",
+          "name": "Daily Challenge",
+          "width": 380,
+          "height": 90,
+          "reactions": 0
+        },
+        {
+          "id": "71:18760",
+          "name": "Streak",
+          "width": 380,
+          "height": 90,
+          "reactions": 1
+        },
+        {
+          "id": "71:18761",
+          "name": "Journey",
+          "width": 184,
+          "height": 78,
+          "reactions": 0
+        },
+        {
+          "id": "71:18762",
+          "name": "Achievements",
+          "width": 184,
+          "height": 78,
+          "reactions": 1
+        },
+        {
+          "id": "71:18763",
+          "name": "Continue",
+          "width": 364,
+          "height": 86,
+          "reactions": 1
+        }
+      ]
+    },
+    {
+      "id": "71:18809",
+      "name": "Home / 430 x 932",
+      "width": 430,
+      "height": 932,
+      "bottomReserve": 254,
+      "listBottom": 560,
+      "actionTop": 592,
+      "overlap": false,
+      "labels": [
+        {
+          "id": "71:18814",
+          "name": "Level",
+          "text": "Lv. 12",
+          "width": 56,
+          "height": 20,
+          "fontSize": 15,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18817;70:18527",
+          "name": "Balance",
+          "text": "1,250",
+          "width": 49,
+          "height": 19,
+          "fontSize": 14,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18821;70:18556",
+          "name": "Title",
+          "text": "Daily Challenge",
+          "width": 304,
+          "height": 32,
+          "fontSize": 24,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18821;70:18557",
+          "name": "Status",
+          "text": "2 of 4 completed",
+          "width": 304,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18821;70:18558",
+          "name": "Arrow",
+          "text": "›",
+          "width": 22,
+          "height": 33,
+          "fontSize": 25,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18822;70:18567",
+          "name": "Title",
+          "text": "Streak",
+          "width": 304,
+          "height": 32,
+          "fontSize": 24,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18822;70:18568",
+          "name": "Status",
+          "text": "3 consecutive days",
+          "width": 304,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18822;70:18569",
+          "name": "Arrow",
+          "text": "›",
+          "width": 22,
+          "height": 33,
+          "fontSize": 25,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18823;75:19008",
+          "name": "Title",
+          "text": "Journey",
+          "width": 129,
+          "height": 21,
+          "fontSize": 16,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18823;75:19009",
+          "name": "Status",
+          "text": "Stage 3",
+          "width": 129,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18824;75:19019",
+          "name": "Title",
+          "text": "Achievements",
+          "width": 129,
+          "height": 21,
+          "fontSize": 16,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18824;75:19020",
+          "name": "Status",
+          "text": "5 / 24",
+          "width": 129,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18825;70:18534",
+          "name": "Play icon",
+          "text": "▶",
+          "width": 21,
+          "height": 29,
+          "fontSize": 22,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18825;70:18535",
+          "name": "Label",
+          "text": "Continue",
+          "width": 108,
+          "height": 38,
+          "fontSize": 29,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        }
+      ],
+      "targets": [
+        {
+          "id": "71:18813",
+          "name": "Profile",
+          "width": 48,
+          "height": 48,
+          "reactions": 1
+        },
+        {
+          "id": "71:18817",
+          "name": "Currency",
+          "width": 136,
+          "height": 48,
+          "reactions": 0
+        },
+        {
+          "id": "71:18818",
+          "name": "Settings",
+          "width": 48,
+          "height": 48,
+          "reactions": 1
+        },
+        {
+          "id": "71:18821",
+          "name": "Daily Challenge",
+          "width": 398,
+          "height": 90,
+          "reactions": 0
+        },
+        {
+          "id": "71:18822",
+          "name": "Streak",
+          "width": 398,
+          "height": 90,
+          "reactions": 1
+        },
+        {
+          "id": "71:18823",
+          "name": "Journey",
+          "width": 193,
+          "height": 78,
+          "reactions": 0
+        },
+        {
+          "id": "71:18824",
+          "name": "Achievements",
+          "width": 193,
+          "height": 78,
+          "reactions": 1
+        },
+        {
+          "id": "71:18825",
+          "name": "Continue",
+          "width": 382,
+          "height": 86,
+          "reactions": 1
+        }
+      ]
+    },
+    {
+      "id": "71:18871",
+      "name": "Home / 390 x 844 / First Play",
+      "width": 390,
+      "height": 844,
+      "bottomReserve": 166,
+      "listBottom": 560,
+      "actionTop": 592,
+      "overlap": false,
+      "labels": [
+        {
+          "id": "71:18876",
+          "name": "Level",
+          "text": "Lv. 12",
+          "width": 56,
+          "height": 20,
+          "fontSize": 15,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18879;70:18527",
+          "name": "Balance",
+          "text": "1,250",
+          "width": 49,
+          "height": 19,
+          "fontSize": 14,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18883;70:18556",
+          "name": "Title",
+          "text": "Daily Challenge",
+          "width": 264,
+          "height": 32,
+          "fontSize": 24,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18883;70:18557",
+          "name": "Status",
+          "text": "Today's garden awaits",
+          "width": 264,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18883;70:18558",
+          "name": "Arrow",
+          "text": "›",
+          "width": 22,
+          "height": 33,
+          "fontSize": 25,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18884;70:18567",
+          "name": "Title",
+          "text": "Streak",
+          "width": 264,
+          "height": 32,
+          "fontSize": 24,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18884;70:18568",
+          "name": "Status",
+          "text": "3 consecutive days",
+          "width": 264,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18884;70:18569",
+          "name": "Arrow",
+          "text": "›",
+          "width": 22,
+          "height": 33,
+          "fontSize": 25,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18885;75:19008",
+          "name": "Title",
+          "text": "Journey",
+          "width": 109,
+          "height": 21,
+          "fontSize": 16,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18885;75:19009",
+          "name": "Status",
+          "text": "Stage 1",
+          "width": 109,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18886;75:19019",
+          "name": "Title",
+          "text": "Achievements",
+          "width": 109,
+          "height": 21,
+          "fontSize": 16,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        },
+        {
+          "id": "I71:18886;75:19020",
+          "name": "Status",
+          "text": "0 / 24",
+          "width": 109,
+          "height": 17,
+          "fontSize": 13,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18887;70:18534",
+          "name": "Play icon",
+          "text": "▶",
+          "width": 21,
+          "height": 29,
+          "fontSize": 22,
+          "fontName": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "slnt": 0,
+              "wght": 400
+            }
+          }
+        },
+        {
+          "id": "I71:18887;70:18535",
+          "name": "Label",
+          "text": "Play",
+          "width": 48,
+          "height": 38,
+          "fontSize": 29,
+          "fontName": {
+            "family": "Cormorant Garamond",
+            "style": "Medium",
+            "variationSettings": {
+              "wght": 500
+            }
+          }
+        }
+      ],
+      "targets": [
+        {
+          "id": "71:18875",
+          "name": "Profile",
+          "width": 48,
+          "height": 48,
+          "reactions": 1
+        },
+        {
+          "id": "71:18879",
+          "name": "Currency",
+          "width": 136,
+          "height": 48,
+          "reactions": 0
+        },
+        {
+          "id": "71:18880",
+          "name": "Settings",
+          "width": 48,
+          "height": 48,
+          "reactions": 1
+        },
+        {
+          "id": "71:18883",
+          "name": "Daily Challenge",
+          "width": 358,
+          "height": 90,
+          "reactions": 0
+        },
+        {
+          "id": "71:18884",
+          "name": "Streak",
+          "width": 358,
+          "height": 90,
+          "reactions": 1
+        },
+        {
+          "id": "71:18885",
+          "name": "Journey",
+          "width": 173,
+          "height": 78,
+          "reactions": 0
+        },
+        {
+          "id": "71:18886",
+          "name": "Achievements",
+          "width": 173,
+          "height": 78,
+          "reactions": 1
+        },
+        {
+          "id": "71:18887",
+          "name": "Continue",
+          "width": 342,
+          "height": 86,
+          "reactions": 1
+        }
+      ]
+    }
+  ]
+}

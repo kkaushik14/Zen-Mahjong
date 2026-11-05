@@ -1,0 +1,1057 @@
+{
+  "contentVersion": "0.3.0",
+  "generatedFrom": "docs/v0.3.0/design-baseline/2026-10-07/export/design-review.json",
+  "items": [
+    {
+      "artworkId": "01-bamboo",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 2,
+        "y": 2
+      },
+      "figmaNodeId": "55:16442",
+      "imageHash": "83db652e9e71a59d66d63017b0a268448149db65",
+      "name": "Bamboo",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/01-bamboo.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "02-crane",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 399,
+        "y": 2
+      },
+      "figmaNodeId": "55:16444",
+      "imageHash": "83db652e9e71a59d66d63017b0a268448149db65",
+      "name": "Crane",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/02-crane.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "03-garden-gate",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 795,
+        "y": 2
+      },
+      "figmaNodeId": "55:16446",
+      "imageHash": "83db652e9e71a59d66d63017b0a268448149db65",
+      "name": "Garden Gate",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/03-garden-gate.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "04-leaves",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1192,
+        "y": 2
+      },
+      "figmaNodeId": "82:19619",
+      "imageHash": "83db652e9e71a59d66d63017b0a268448149db65",
+      "name": "Leaves",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/04-leaves.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "05-lotus",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 2
+      },
+      "figmaNodeId": "57:18038",
+      "imageHash": "83db652e9e71a59d66d63017b0a268448149db65",
+      "name": "Lotus",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/05-lotus.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "06-moon",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 2,
+        "y": 398
+      },
+      "figmaNodeId": "55:16452",
+      "imageHash": "83db652e9e71a59d66d63017b0a268448149db65",
+      "name": "Moon",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/06-moon.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "07-mountain",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 399,
+        "y": 398
+      },
+      "figmaNodeId": "55:16454",
+      "imageHash": "83db652e9e71a59d66d63017b0a268448149db65",
+      "name": "Mountain",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/07-mountain.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "08-sun",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 795,
+        "y": 398
+      },
+      "figmaNodeId": "57:18017",
+      "imageHash": "83db652e9e71a59d66d63017b0a268448149db65",
+      "name": "Sun",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/08-sun.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "09-river",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1192,
+        "y": 398
+      },
+      "figmaNodeId": "55:16458",
+      "imageHash": "83db652e9e71a59d66d63017b0a268448149db65",
+      "name": "River",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/09-river.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "10-maple",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 398
+      },
+      "figmaNodeId": "55:16460",
+      "imageHash": "83db652e9e71a59d66d63017b0a268448149db65",
+      "name": "Maple",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/10-maple.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "11-cherry-blossom",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 2,
+        "y": 2
+      },
+      "figmaNodeId": "82:19611",
+      "imageHash": "475b4d7c563f71a7a178e90aed10c237c2d44a0e",
+      "name": "Cherry Blossom",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/11-cherry-blossom.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "12-bonsai",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 399,
+        "y": 2
+      },
+      "figmaNodeId": "57:18023",
+      "imageHash": "475b4d7c563f71a7a178e90aed10c237c2d44a0e",
+      "name": "Bonsai",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/12-bonsai.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "13-chrysanthemum",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 795,
+        "y": 2
+      },
+      "figmaNodeId": "55:16466",
+      "imageHash": "475b4d7c563f71a7a178e90aed10c237c2d44a0e",
+      "name": "Chrysanthemum",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/13-chrysanthemum.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "14-iris",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1192,
+        "y": 2
+      },
+      "figmaNodeId": "55:16468",
+      "imageHash": "475b4d7c563f71a7a178e90aed10c237c2d44a0e",
+      "name": "Iris",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/14-iris.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "15-camellia",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 2
+      },
+      "figmaNodeId": "55:16470",
+      "imageHash": "475b4d7c563f71a7a178e90aed10c237c2d44a0e",
+      "name": "Camellia",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/15-camellia.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "16-magnolia",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 2,
+        "y": 398
+      },
+      "figmaNodeId": "55:16472",
+      "imageHash": "475b4d7c563f71a7a178e90aed10c237c2d44a0e",
+      "name": "Magnolia",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/16-magnolia.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "17-wisteria",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 399,
+        "y": 398
+      },
+      "figmaNodeId": "55:16474",
+      "imageHash": "475b4d7c563f71a7a178e90aed10c237c2d44a0e",
+      "name": "Wisteria",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/17-wisteria.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "18-peony",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 795,
+        "y": 398
+      },
+      "figmaNodeId": "55:16476",
+      "imageHash": "475b4d7c563f71a7a178e90aed10c237c2d44a0e",
+      "name": "Peony",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/18-peony.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "19-plum-blossom",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1192,
+        "y": 398
+      },
+      "figmaNodeId": "55:16478",
+      "imageHash": "475b4d7c563f71a7a178e90aed10c237c2d44a0e",
+      "name": "Plum Blossom",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/19-plum-blossom.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "20-ginkgo",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 398
+      },
+      "figmaNodeId": "55:16480",
+      "imageHash": "475b4d7c563f71a7a178e90aed10c237c2d44a0e",
+      "name": "Ginkgo",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/20-ginkgo.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "21-stacked-stones",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 2,
+        "y": 2
+      },
+      "figmaNodeId": "55:16482",
+      "imageHash": "9e2eb3dd9637f10e7f75350c6c3385e1fe1edb64",
+      "name": "Stacked Stones",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/21-stacked-stones.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "22-stone-lantern",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 399,
+        "y": 2
+      },
+      "figmaNodeId": "55:16484",
+      "imageHash": "9e2eb3dd9637f10e7f75350c6c3385e1fe1edb64",
+      "name": "Stone Lantern",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/22-stone-lantern.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "23-koi",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 795,
+        "y": 2
+      },
+      "figmaNodeId": "55:16486",
+      "imageHash": "9e2eb3dd9637f10e7f75350c6c3385e1fe1edb64",
+      "name": "Koi",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/23-koi.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "24-pine",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1192,
+        "y": 2
+      },
+      "figmaNodeId": "55:16488",
+      "imageHash": "9e2eb3dd9637f10e7f75350c6c3385e1fe1edb64",
+      "name": "Pine",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/24-pine.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "25-bridge",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 2
+      },
+      "figmaNodeId": "I65:18455;57:18559",
+      "imageHash": "9e2eb3dd9637f10e7f75350c6c3385e1fe1edb64",
+      "name": "Bridge",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/25-bridge.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "26-waterfall",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 2,
+        "y": 398
+      },
+      "figmaNodeId": "55:16492",
+      "imageHash": "9e2eb3dd9637f10e7f75350c6c3385e1fe1edb64",
+      "name": "Waterfall",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/26-waterfall.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "27-pavilion",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 399,
+        "y": 398
+      },
+      "figmaNodeId": "55:16494",
+      "imageHash": "9e2eb3dd9637f10e7f75350c6c3385e1fe1edb64",
+      "name": "Pavilion",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/27-pavilion.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "28-guardian",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 795,
+        "y": 398
+      },
+      "figmaNodeId": "55:16496",
+      "imageHash": "9e2eb3dd9637f10e7f75350c6c3385e1fe1edb64",
+      "name": "Guardian",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/28-guardian.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "29-red-lantern",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1192,
+        "y": 398
+      },
+      "figmaNodeId": "55:16498",
+      "imageHash": "9e2eb3dd9637f10e7f75350c6c3385e1fe1edb64",
+      "name": "Red Lantern",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/29-red-lantern.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "30-bamboo-fountain",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 398
+      },
+      "figmaNodeId": "55:16500",
+      "imageHash": "9e2eb3dd9637f10e7f75350c6c3385e1fe1edb64",
+      "name": "Bamboo Fountain",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/30-bamboo-fountain.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "31-wind-chime",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 2,
+        "y": 2
+      },
+      "figmaNodeId": "55:16502",
+      "imageHash": "20f78e0c1f21eaba1ed40c7e94bd2fe107936454",
+      "name": "Wind Chime",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/31-wind-chime.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "32-fan",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 399,
+        "y": 2
+      },
+      "figmaNodeId": "55:16504",
+      "imageHash": "20f78e0c1f21eaba1ed40c7e94bd2fe107936454",
+      "name": "Fan",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/32-fan.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "33-parasol",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 795,
+        "y": 2
+      },
+      "figmaNodeId": "55:16506",
+      "imageHash": "20f78e0c1f21eaba1ed40c7e94bd2fe107936454",
+      "name": "Parasol",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/33-parasol.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "34-tea",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1192,
+        "y": 2
+      },
+      "figmaNodeId": "55:16508",
+      "imageHash": "20f78e0c1f21eaba1ed40c7e94bd2fe107936454",
+      "name": "Tea",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/34-tea.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "35-lute",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 2
+      },
+      "figmaNodeId": "55:16510",
+      "imageHash": "20f78e0c1f21eaba1ed40c7e94bd2fe107936454",
+      "name": "Lute",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/35-lute.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "36-scroll",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 2,
+        "y": 398
+      },
+      "figmaNodeId": "55:16512",
+      "imageHash": "20f78e0c1f21eaba1ed40c7e94bd2fe107936454",
+      "name": "Scroll",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/36-scroll.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "37-jade-charm",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 399,
+        "y": 398
+      },
+      "figmaNodeId": "55:16514",
+      "imageHash": "20f78e0c1f21eaba1ed40c7e94bd2fe107936454",
+      "name": "Jade Charm",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/37-jade-charm.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "38-nest",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 795,
+        "y": 398
+      },
+      "figmaNodeId": "55:16516",
+      "imageHash": "20f78e0c1f21eaba1ed40c7e94bd2fe107936454",
+      "name": "Nest",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/38-nest.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "39-butterfly",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1192,
+        "y": 398
+      },
+      "figmaNodeId": "55:16518",
+      "imageHash": "20f78e0c1f21eaba1ed40c7e94bd2fe107936454",
+      "name": "Butterfly",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/39-butterfly.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "40-dragonfly",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 398
+      },
+      "figmaNodeId": "55:16520",
+      "imageHash": "20f78e0c1f21eaba1ed40c7e94bd2fe107936454",
+      "name": "Dragonfly",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/40-dragonfly.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "41-deer",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 2,
+        "y": 2
+      },
+      "figmaNodeId": "55:16522",
+      "imageHash": "0177830b373be88c0ba8251a3a0f870afa9ac2e1",
+      "name": "Deer",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/41-deer.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "42-squirrel-branch",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 399,
+        "y": 2
+      },
+      "figmaNodeId": "55:16524",
+      "imageHash": "0177830b373be88c0ba8251a3a0f870afa9ac2e1",
+      "name": "Squirrel Branch",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/42-squirrel-branch.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "43-fox",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 795,
+        "y": 2
+      },
+      "figmaNodeId": "55:16526",
+      "imageHash": "0177830b373be88c0ba8251a3a0f870afa9ac2e1",
+      "name": "Fox",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/43-fox.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "44-owl",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1192,
+        "y": 2
+      },
+      "figmaNodeId": "55:16528",
+      "imageHash": "0177830b373be88c0ba8251a3a0f870afa9ac2e1",
+      "name": "Owl",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/44-owl.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "45-sparrow",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 2
+      },
+      "figmaNodeId": "55:16530",
+      "imageHash": "0177830b373be88c0ba8251a3a0f870afa9ac2e1",
+      "name": "Sparrow",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/45-sparrow.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "46-turtle",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 2,
+        "y": 398
+      },
+      "figmaNodeId": "55:16532",
+      "imageHash": "0177830b373be88c0ba8251a3a0f870afa9ac2e1",
+      "name": "Turtle",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/46-turtle.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "47-frog",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 399,
+        "y": 398
+      },
+      "figmaNodeId": "55:16534",
+      "imageHash": "0177830b373be88c0ba8251a3a0f870afa9ac2e1",
+      "name": "Frog",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/47-frog.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "48-snail",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 795,
+        "y": 398
+      },
+      "figmaNodeId": "55:16536",
+      "imageHash": "0177830b373be88c0ba8251a3a0f870afa9ac2e1",
+      "name": "Snail",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/48-snail.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "49-squirrel-log",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1192,
+        "y": 398
+      },
+      "figmaNodeId": "55:16538",
+      "imageHash": "0177830b373be88c0ba8251a3a0f870afa9ac2e1",
+      "name": "Squirrel Log",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/49-squirrel-log.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    },
+    {
+      "artworkId": "50-goldfish",
+      "crop": {
+        "height": 393,
+        "width": 393,
+        "x": 1588,
+        "y": 398
+      },
+      "figmaNodeId": "55:16540",
+      "imageHash": "0177830b373be88c0ba8251a3a0f870afa9ac2e1",
+      "name": "Goldfish",
+      "outputDimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "outputPath": "packages/mahjong-ui/assets/tiles/v3/50-goldfish.png",
+      "sourceDimensions": {
+        "height": 793,
+        "width": 1983
+      }
+    }
+  ],
+  "schemaVersion": 1
+}

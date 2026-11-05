@@ -1,0 +1,9 @@
+{
+  "name": "Zen Mahjong Concentration Screen Update",
+  "id": "zen-mahjong-concentration-screen-update",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": { "allowedDomains": ["none"] }
+}

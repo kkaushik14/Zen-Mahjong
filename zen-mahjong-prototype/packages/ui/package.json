@@ -1,0 +1,20 @@
+{
+  "name": "@zen-mahjong/ui",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "peerDependencies": {
+    "@zen-mahjong/design-tokens": "workspace:*",
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "@zen-mahjong/design-tokens": "workspace:*"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  }
+}

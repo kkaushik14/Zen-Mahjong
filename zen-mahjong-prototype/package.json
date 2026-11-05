@@ -1,0 +1,41 @@
+{
+  "name": "zen-mahjong-prototype",
+  "version": "0.3.0",
+  "private": true,
+  "packageManager": "pnpm@11.19.0",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "start": "pnpm --filter @zen-mahjong/mobile start",
+    "android": "pnpm --filter @zen-mahjong/mobile android",
+    "ios": "pnpm --filter @zen-mahjong/mobile ios",
+    "dev:client": "pnpm --filter @zen-mahjong/mobile start:dev-client",
+    "device:android": "pnpm --filter @zen-mahjong/mobile device:android",
+    "device:ios": "pnpm --filter @zen-mahjong/mobile device:ios",
+    "web": "pnpm --filter @zen-mahjong/mobile web",
+    "assets:gameplay": "node scripts/extract-gameplay-assets.mts",
+    "assets:audit": "node scripts/audit-runtime-assets.mts",
+    "content:master-sheet": "node scripts/generate-tile-master-sheet.mts",
+    "typecheck": "pnpm -r typecheck",
+    "lint": "pnpm --filter @zen-mahjong/mobile lint",
+    "test": "jest --runInBand",
+    "test:watch": "jest --watch",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "verify": "pnpm typecheck && pnpm lint && pnpm test && pnpm format:check"
+  },
+  "devDependencies": {
+    "@babel/runtime": "^7.29.7",
+    "@testing-library/react-native": "13.3.3",
+    "@types/jest": "^29.5.14",
+    "@types/react": "~19.2.2",
+    "eslint": "^9.39.0",
+    "eslint-config-expo": "~57.0.2",
+    "jest": "^29.7.0",
+    "jest-expo": "~57.0.5",
+    "prettier": "^3.6.2",
+    "react-test-renderer": "19.2.3",
+    "typescript": "~6.0.3"
+  }
+}

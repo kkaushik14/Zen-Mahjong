@@ -1,0 +1,295 @@
+{
+  "contentVersion": "0.3.0",
+  "generatedFrom": "docs/v0.3.0/design-baseline/2026-10-07/export/design-review.json",
+  "items": [
+    {
+      "assetId": "button.primary",
+      "crop": {
+        "height": 191,
+        "width": 635,
+        "x": 755,
+        "y": 791
+      },
+      "figmaNodeId": "55:16587",
+      "outputPath": "packages/ui/assets/moonlit/v3/button-primary.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "b82273aa747d54c8dc684d883379edf210d2bc15"
+    },
+    {
+      "assetId": "button.secondary",
+      "crop": {
+        "height": 191,
+        "width": 635,
+        "x": 60,
+        "y": 791
+      },
+      "figmaNodeId": "55:16590",
+      "outputPath": "packages/ui/assets/moonlit/v3/button-secondary.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "b82273aa747d54c8dc684d883379edf210d2bc15"
+    },
+    {
+      "assetId": "action.undo",
+      "crop": {
+        "height": 184,
+        "width": 231,
+        "x": 42,
+        "y": 812
+      },
+      "figmaNodeId": "55:16593",
+      "outputPath": "packages/ui/assets/moonlit/v3/action-undo.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "assetId": "action.hint",
+      "crop": {
+        "height": 184,
+        "width": 231,
+        "x": 326,
+        "y": 812
+      },
+      "figmaNodeId": "55:16598",
+      "outputPath": "packages/ui/assets/moonlit/v3/action-hint.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "assetId": "action.shuffle",
+      "crop": {
+        "height": 184,
+        "width": 231,
+        "x": 591,
+        "y": 812
+      },
+      "figmaNodeId": "55:16603",
+      "outputPath": "packages/ui/assets/moonlit/v3/action-shuffle.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "assetId": "action.more",
+      "crop": {
+        "height": 184,
+        "width": 231,
+        "x": 861,
+        "y": 812
+      },
+      "figmaNodeId": "55:16608",
+      "outputPath": "packages/ui/assets/moonlit/v3/action-more.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "assetId": "surface.trayPocket",
+      "crop": {
+        "height": 143,
+        "width": 164,
+        "x": 155,
+        "y": 240
+      },
+      "figmaNodeId": "65:18228",
+      "outputPath": "packages/ui/assets/moonlit/v3/tray-pocket.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "assetId": "surface.settingsRow",
+      "crop": {
+        "height": 250,
+        "width": 640,
+        "x": 450,
+        "y": 700
+      },
+      "figmaNodeId": "82:19161",
+      "outputPath": "packages/ui/assets/moonlit/v3/settings-row-marble.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "20db649f85d9705e69333badd9be5ff6b671ff29"
+    },
+    {
+      "assetId": "surface.tileMarble",
+      "crop": {
+        "height": 343,
+        "width": 282,
+        "x": 93,
+        "y": 16
+      },
+      "figmaNodeId": "55:16441",
+      "outputPath": "packages/ui/assets/moonlit/v3/tile-marble.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "fa77246559de7459555fa6016f6bb855d24a961b"
+    },
+    {
+      "assetId": "popup.surface",
+      "crop": {
+        "height": 615,
+        "width": 1240,
+        "x": 105,
+        "y": 84
+      },
+      "figmaNodeId": "65:18217",
+      "outputPath": "packages/ui/assets/moonlit/v3/popup-surface.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "b82273aa747d54c8dc684d883379edf210d2bc15"
+    },
+    {
+      "assetId": "popup.top",
+      "crop": {
+        "height": 33,
+        "width": 866,
+        "x": 120,
+        "y": 218
+      },
+      "figmaNodeId": "65:18218",
+      "outputPath": "packages/ui/assets/moonlit/v3/popup-top.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "assetId": "popup.bottom",
+      "crop": {
+        "height": 34,
+        "width": 866,
+        "x": 120,
+        "y": 370
+      },
+      "figmaNodeId": "65:18219",
+      "outputPath": "packages/ui/assets/moonlit/v3/popup-bottom.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "assetId": "popup.left",
+      "crop": {
+        "height": 236,
+        "width": 130,
+        "x": 17,
+        "y": 188
+      },
+      "figmaNodeId": "65:18220",
+      "outputPath": "packages/ui/assets/moonlit/v3/popup-left.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "assetId": "popup.right",
+      "crop": {
+        "height": 236,
+        "width": 130,
+        "x": 978,
+        "y": 188
+      },
+      "figmaNodeId": "65:18221",
+      "outputPath": "packages/ui/assets/moonlit/v3/popup-right.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    },
+    {
+      "assetId": "button.wideLeft",
+      "crop": {
+        "height": 506,
+        "width": 300,
+        "x": 100,
+        "y": 563
+      },
+      "figmaNodeId": "70:18530",
+      "outputPath": "packages/ui/assets/moonlit/v3/wide-button-left.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "20db649f85d9705e69333badd9be5ff6b671ff29"
+    },
+    {
+      "assetId": "button.wideMiddle",
+      "crop": {
+        "height": 506,
+        "width": 730,
+        "x": 400,
+        "y": 563
+      },
+      "figmaNodeId": "70:18531",
+      "outputPath": "packages/ui/assets/moonlit/v3/wide-button-middle.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "20db649f85d9705e69333badd9be5ff6b671ff29"
+    },
+    {
+      "assetId": "button.wideRight",
+      "crop": {
+        "height": 506,
+        "width": 240,
+        "x": 1130,
+        "y": 563
+      },
+      "figmaNodeId": "70:18532",
+      "outputPath": "packages/ui/assets/moonlit/v3/wide-button-right.png",
+      "sourceDimensions": {
+        "height": 1086,
+        "width": 1448
+      },
+      "sourceHash": "20db649f85d9705e69333badd9be5ff6b671ff29"
+    },
+    {
+      "assetId": "progress.branch",
+      "crop": {
+        "height": 78,
+        "width": 795,
+        "x": 180,
+        "y": 480
+      },
+      "figmaNodeId": "55:16619",
+      "outputPath": "packages/ui/assets/moonlit/v3/progress-branch.png",
+      "sourceDimensions": {
+        "height": 1402,
+        "width": 1122
+      },
+      "sourceHash": "398f915c2f042f18fc3c81667166326482508d25"
+    }
+  ],
+  "schemaVersion": 1
+}

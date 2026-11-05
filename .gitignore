@@ -1,0 +1,33 @@
+# Dependencies and package-manager caches
+node_modules/
+.pnpm-store/
+
+# Machine-local files and credentials
+.DS_Store
+.env
+.env.*
+!.env.example
+.xcode*.env*
+*.local
+*.log
+*.p12
+*.p8
+*.mobileprovision
+*.keystore
+*.jks
+
+# Generated build and test output
+.expo/
+.eas/
+coverage/
+DerivedData/
+Pods/
+build/
+dist/
+*.ipa
+*.apk
+*.aab
+xcuserdata/
+
+# Archived, duplicated native build tree; regenerate from the Expo project
+/zen-mahjong-v3-21-ios-contaminated/
